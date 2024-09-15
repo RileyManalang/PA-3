@@ -1,4 +1,6 @@
 # PA-3
+### Version
+- Python 3.12.4 
 For starters: import the pandas library to the python code
 
 # Problem #1: Getting a Specific row in the pandas data
