@@ -1,6 +1,6 @@
 # PA-3
 ### Version
-- Python 3.12.4 
+- Python 3.12.4 (Jupyter Notebook)
 
 For starters: import the pandas library to the python code
 
