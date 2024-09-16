@@ -30,7 +30,7 @@ Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have
 - I also learned to use .iloc and .loc
 
 ## Version History:
-### [v1.0.0] - 9/15/24
+### [v1.1.0] - 9/15/24
 - initial work
 ### [v1.2.0] - 9/16/24
 - improved the output displayed at the first problem
