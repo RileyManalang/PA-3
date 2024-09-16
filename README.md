@@ -11,6 +11,7 @@ For starters: import the pandas library to the python code
 - I tried to experiment with some syntaxes using .iloc and .loc so that I can get the desired data in the table. Unfortunately, I had trouble with the knowledge I currently have about pandas.
 - After a few tutorials and research, I managed to think of ways or approaches to solve the problem which I used a concatenate function of pandas to try and concatenate the rows of the first five and the last five, which resulted in a somehow close display of the desired output
 - I then tried using a numpy function to stack the rows to each other, but this just created an array that is hard to read
+- I then settled with just using the .head() and .tail() feature of pandas
 
 
 # Problem#2: Use subsetting, slicing and indexing operations to extract data from the provided data
@@ -26,4 +27,10 @@ Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have
 
 ## Learnings
 - I managed to learn other syntax that I can use to attach a variable or output to one another such as .join() and .append()
-- I also learned to use .iloc and .loc 
+- I also learned to use .iloc and .loc
+
+## Version History:
+### [v1.0.0] - 9/15/24
+- initial work
+### [v1.2.0] - 9/16/24
+- improved the output displayed at the first problem
